@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cursos nuevos/1.0.0": {
+        "runtime": {
+          "Cursos nuevos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cursos nuevos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
